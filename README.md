@@ -77,7 +77,6 @@ We 💜 contributors! Here's how you can help:
 
 **First time contributing?** Check our [Good First Issues](https://github.com/Syrasri22/SRM-ACADBUDDY-BOT/issues?q=is%3Aopen%20label%3A%22good%20first%20issue%22)!
 
----
 ## 📜License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
