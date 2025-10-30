@@ -62,7 +62,6 @@
    ```
 
 ---
-
 ## 🤝 How to Contribute
 
 We 💜 contributors! Here's how you can help:
@@ -79,20 +78,16 @@ We 💜 contributors! Here's how you can help:
 **First time contributing?** Check our [Good First Issues](https://github.com/Syrasri22/SRM-ACADBUDDY-BOT/issues?q=is%3Aopen%20label%3A%22good%20first%20issue%22)!
 
 ---
-
-## 📜 License
+## 📜License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
+## Reach Out To Me:
 
-## ❓ Need Help? Found a Bug?
-
-Open an [issue](https://github.com/Syrasri22/SRM-ACADBUDDY-BOT/issues) or reach out to our team:
+Open an [issue](https://github.com/Syrasri22/SRM-ACADBUDDY-BOT/issues) or reach out to me:
 
 📧 **Email**: [srimathy226@gmail.com](mailto:srimathy226@gmail.com)  
-<!-- 💬 **Discord**: [Join our server](https://discord.gg/your-invite-link) -->
 
 ---
 
-Made with ❤️ by Srimathy S. and **AMAZING CONTRIBUTORS** like YOU!  
+Made with ❤️ by Srimathy S.
